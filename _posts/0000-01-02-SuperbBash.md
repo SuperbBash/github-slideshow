@@ -2,5 +2,5 @@
 layout:slide
 title:"Welcome to our second
 ---
-Site SuperbBash is greeting you
+How far guys how is coding going
 Use the left arrow to go back!
